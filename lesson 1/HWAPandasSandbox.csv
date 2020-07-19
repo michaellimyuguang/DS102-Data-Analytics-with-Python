@@ -1,0 +1,6 @@
+ClassID,ClassType,Co-Instructor,Coordinating_TA,Instructor,Rating,Students
+1,DS101,False,Dick,Jon,Nil,40
+2,DS101,True,Vera,Andre,7,43
+3,DS102,False,Vera,Jon,9,41
+4,DS102,True,Dick,Andre,Nope,44
+5,DS101,True,Dick,Andre,10,45
